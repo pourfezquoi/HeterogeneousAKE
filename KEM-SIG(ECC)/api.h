@@ -1,0 +1,3 @@
+
+#define SESSION_KEY_LEN 32
+#define SEED_BYTES 32

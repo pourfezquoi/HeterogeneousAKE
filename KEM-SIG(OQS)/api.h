@@ -1,0 +1,2 @@
+
+#define SESSION_KEY_LEN 32
